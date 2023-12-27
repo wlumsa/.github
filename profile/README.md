@@ -1,12 +1,26 @@
-## Hi there 👋
+# WLU Muslim Student's Association Repository 
 
-<!--
+This project is the official page for Laurier's Muslim Student Association. It was developed to serve the Muslim community at Wilfrid Laurier University by the permission of Allah.
+We wanted to keep our projects open source so that other MSA's or ISOC's can use them as a point of reference when developing their website. 
+We do ask however, that if you are going to use our website please reach out we would love to collaborate and exchange ideas with your team Inshallah.
 
-**Here are some ideas to get you started:**
+## Learn More
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Discover more about the WLU MSA, our values, and our mission on our [official website](https://www.wlumsa.org/about).
+
+
+### Contributors 
+- [Syed Ahmed](https://github.com/Syed-Ahmed02) - Team Lead
+- [Usama Mohiuddin](https://github.com/UsamaMo) - Tech Lead
+- [Maham Farooq](https://github.com/CoderMF) - UI/UX Designer
+- [Muhammad Saad](https://github.com/mxsaad) - Developer
+- [Waleed Asif](https://github.com/WaleedAAA) - Developer
+- [Razan](https://github.com/rzlm) - Developer 
+- [Muneeb](https://github.com/Muneeb231) - Developer 
+
+### Special Thanks
+Thanks to the executive team of the Laurier Muslim Students Association in the 2023/2024 school for facilitating the project and giving feedback.
+
+## Contact information
+If you would like to reach out to us feel free to contact us using the form on this [page](https://www.wlumsa.org/resources)
+
